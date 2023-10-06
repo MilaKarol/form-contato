@@ -31,7 +31,7 @@ Form-contato criado durante as aulas de Fundamentos de Desenvolvimento Web, cria
 * Zendesc.com
 * loopnerd.com
 * alura.com
-### Autores
+### ✒️ Autores
 ```
 https://github.com/CaioTico
 ```
@@ -40,4 +40,7 @@ https://github.com/anacenali
 ```
 ```
 https://github.com/queijitos
+```
+```
+https://github.com/MilaKarol
 ```
